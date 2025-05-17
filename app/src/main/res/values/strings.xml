@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Split Expense</string>
+    
+    <!-- Auth Strings -->
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="email">Email</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="create_account">Create Account</string>
+    <string name="already_have_account">Already have an account? Login</string>
+    <string name="dont_have_account">Don\'t have an account? Register</string>
+    
+    <!-- Main App Strings -->
+    <string name="dashboard">Dashboard</string>
+    <string name="friends">Friends</string>
+    <string name="expenses">Expenses</string>
+    <string name="profile">Profile</string>
+    <string name="settings">Settings</string>
+    
+    <!-- Friend Management -->
+    <string name="add_friend">Add Friend</string>
+    <string name="friend_requests">Friend Requests</string>
+    <string name="search_friends">Search Friends</string>
+    <string name="remove_friend">Remove Friend</string>
+    
+    <!-- Expense Management -->
+    <string name="add_expense">Add Expense</string>
+    <string name="expense_amount">Amount</string>
+    <string name="expense_description">Description</string>
+    <string name="expense_date">Date</string>
+    <string name="expense_category">Category</string>
+    <string name="split_equally">Split Equally</string>
+    <string name="custom_split">Custom Split</string>
+    <string name="paid_by">Paid By</string>
+    <string name="select_friends">Select Friends</string>
+    <string name="save_expense">Save Expense</string>
+    
+    <!-- Categories -->
+    <string name="category_food">Food</string>
+    <string name="category_transport">Transport</string>
+    <string name="category_shopping">Shopping</string>
+    <string name="category_entertainment">Entertainment</string>
+    <string name="category_utilities">Utilities</string>
+    <string name="category_rent">Rent</string>
+    <string name="category_other">Other</string>
+    
+    <!-- Balance -->
+    <string name="you_owe">You Owe</string>
+    <string name="owes_you">Owes You</string>
+    <string name="settle_up">Settle Up</string>
+    <string name="total_balance">Total Balance</string>
+</resources>
